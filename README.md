@@ -69,13 +69,13 @@ Environmental monitoring systems
 Data logging devices  
 Embedded system prototyping platform  
 ------------------------
-📈 Learning Outcomes  
+**📈 Learning Outcomes  
 This project demonstrates:  
 End-to-end hardware design (spec → schematic → PCB)  
 Power design (LDO, decoupling)  
 Communication protocols (UART, I2C, SPI)  
 PCB layout best practices (grounding, routing)  
-Hardware bring-up and debugging  
+Hardware bring-up and debugging  **
 ------------------------
 🔥 Future Improvements  
 Add DC-DC converter (buck)  
